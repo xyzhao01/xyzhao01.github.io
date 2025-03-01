@@ -574,13 +574,5 @@ border-radius: .1em;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
-  font-weight: bold;
   margin-right: 6px;
-}
-a {
-  color: blue !important;  /* 强制设置超链接为蓝色 */
-  text-decoration: none;  /* 可选：去掉下划线 */
-}
-a:hover {
-  color: darkblue;  /* 可选：悬停时颜色加深 */
 }
