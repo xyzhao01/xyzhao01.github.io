@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+- **论文标题 1**  
+  作者：作者 A, 作者 B, 作者 C  
+  期刊：期刊名称，年份，卷号(期号)，页码范围。  
+  链接：[DOI 或期刊链接](https://example.com)
+
+- **论文标题 2**  
+  作者：作者 D, 作者 E  
+  会议：会议名称，年份，地点。  
+  链接：[会议论文链接](https://example.com)
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
