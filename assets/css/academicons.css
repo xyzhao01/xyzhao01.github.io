@@ -572,8 +572,15 @@ border-radius: .1em;
 .news-badge {
   background-color: #d9534f;
   color: white;
-  padding: 4px 8px;
+  padding: 2px 5px;
   border-radius: 4px;
   font-weight: bold;
-  margin-right: 8px;
+  margin-right: 6px;
+}
+a {
+  color: blue !important;  /* 强制设置超链接为蓝色 */
+  text-decoration: none;  /* 可选：去掉下划线 */
+}
+a:hover {
+  color: darkblue;  /* 可选：悬停时颜色加深 */
 }

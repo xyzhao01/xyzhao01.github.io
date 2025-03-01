@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaoyan ZHAO"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiaoyan ZHAO"
 description              : &description "My academic homepage"
