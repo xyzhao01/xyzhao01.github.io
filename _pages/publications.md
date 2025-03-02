@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Selected Recent Publications"
 permalink: /publications/
 author: "Xiaoyan Zhao"
