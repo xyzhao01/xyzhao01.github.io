@@ -7,7 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ))
-
 {% capture publications_content %}{% include publications.md %}{% endcapture %}
-{{ publications_content }}
+{{ publications_content | markdownify }}
