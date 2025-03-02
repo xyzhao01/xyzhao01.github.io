@@ -1,12 +1,13 @@
 ---
-layout: single
-title: "Publications"
+layout: page
+title: "Selected Recent Publications"
 permalink: /publications/
-author_profile: true
+author: "Xiaoyan Zhao"
+description: "A list of selected recent publications by Xiaoyan Zhao."
 ---
 
-## Selected Recent Publications  
-[Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ)
+## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ))
+
 
 - **PEARL: Towards Permutation-Resilient LLMs**  
   Liang Chen, Li Shen, Yang Deng, **Xiaoyan Zhao**, Bin Liang, Kam-Fai Wong  
