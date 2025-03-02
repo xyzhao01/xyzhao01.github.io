@@ -1,11 +1,3 @@
----
-layout: page
-title: "Selected Recent Publications"
-permalink: /publications/
-author: "Xiaoyan Zhao"
-description: "A list of selected recent publications by Xiaoyan Zhao."
----
-
 ## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ))
 
 
