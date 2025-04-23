@@ -17,11 +17,11 @@ My research interests are centered on advancing Natural Language Processing (NLP
 - **Personalized LLMs**
   Investigating personalization aspects, including **personality modeling**, **role-playing**, **memory integration**, and ensuring **factual accuracy**, to tailor LLM outputs to individual user preferences.
 
-If you are interested in these topics, I would welcome the opportunity to collaborate and exchange ideas. Please feel free to reach out.
+<p style="color: red;">If you are interested in these topics, I would welcome the opportunity to collaborate and exchange ideas. Please feel free to get in touch!</p>
 
 ## News 
-📢 <span class="news-badge">News!</span> Here is the news.
+📢 <span class="news-badge">News!</span> 2025.01: 🎉 One paper was accepted by ICLR 2025. See you in Singapore!
 
 ## Academic Services
-- Program committee of ACL Rolling Review (ARR), COLING, 
+- Program committee of ACL Rolling Review (ARR), COLING 
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Knowledge-based Systems (KBS)
