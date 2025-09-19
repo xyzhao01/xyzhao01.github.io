@@ -30,7 +30,5 @@ My research interests are centered on advancing Natural Language Processing (NLP
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), ACM Computing Surveys (CSUR), Knowledge-based Systems (KBS), etc.
 
 ## Teaching
-- CSCI2100: Data Structures 
-  for undergraduate, 2022/2023/2024 Fall@CUHK, Teaching Assistant
-- SEEM3550: Database Systems 
-  for undergraduate, 2022/2023/2024 Fall@CUHK, Teaching Assistant
+- CSCI2100: Data Structures (2022/2023/2024 Fall@CUHK), Teaching Assistant
+- SEEM3550: Database Systems (2022/2023/2024 Fall@CUHK), Teaching Assistant
