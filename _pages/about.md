@@ -20,9 +20,15 @@ My research interests are centered on advancing Natural Language Processing (NLP
 <p style="color: #d9534f;"> 📢 If you are interested in these topics, I would welcome the opportunity to collaborate and exchange ideas. Please feel free to get in touch!</p>
 
 ## News 
+<span class="news-badge">News!</span> 2025.09: 🎉 One paper was accepted by NeurIPS 2025! Thanks to all collaborators!
+<span class="news-badge">News!</span> 2025.08: 🎉 One paper was accepted by EMNLP 2025. Thanks to all collaborators!
 <span class="news-badge">News!</span> 2025.05: 🎉 One paper was accepted by ACL 2025! Thanks to all collaborators!
 <span class="news-badge">News!</span> 2025.01: 🎉 One paper was accepted by ICLR 2025. See you in Singapore!
 
 ## Academic Services
 - Program committee of ACL, EMNLP, NeurIPS, COLING, ICASSP, NLPCC, etc.
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), ACM Computing Surveys (CSUR), Knowledge-based Systems (KBS), etc.
+
+## Teaching
+- CSCI2100: Data Structures (undergraduate, 2022|2023|2024 Fall@CUHK), Teaching Assistant
+- SEEM3550: Database Systems (undergraduate, 2022|2023|2024 Fall@CUHK), Teaching Assistant
