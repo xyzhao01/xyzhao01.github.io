@@ -1,18 +1,18 @@
 ## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ)) (* Equal Contribution, † Mentorship)
 
 1. **NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**
-   **Xiaoyan Zhao***, Juntao You*, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua
+  **Xiaoyan Zhao***, Juntao You*, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua
 
 1. **IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**
-   Zijie Lin, Yang Zhang, **Xiaoyan Zhao**, Fengbin Zhu, Fuli Feng, Tat-Seng Chua
-    *NeurIPS 2025 (CCF A)*
+  Zijie Lin, Yang Zhang, **Xiaoyan Zhao**, Fengbin Zhu, Fuli Feng, Tat-Seng Chua
+  *NeurIPS 2025 (CCF A)*
 
 1. **Latent Inter-User Difference Modeling for LLM Personalization**
   Yilun Qiu, Tianhao Shi, **Xiaoyan Zhao**, Fengbin Zhu, Yang Zhang, Fuli Feng  
   *EMNLP 2025 (Oral 🏆, CCF B)*
 
 1. **Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models**
-   **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua
+  **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua
 
 1. **Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization**  
   Yilun Qiu*, **Xiaoyan Zhao***, Yang Zhang, Yimeng Bai, Wenjie Wang, Hong Cheng, Fuli Feng, Tat-Seng Chua  
