@@ -2,11 +2,11 @@
 
 1. **NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**  
   **Xiaoyan Zhao\***, Juntao You\*, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua  
-  *ICLR 2026（CCF A）*
+  *ICLR 2026（CCF A）*  
 
-1. **Reinforced Latent Reasoning for LLM-based Recommendation**
-  Yang Zhang, Wenxin Xu, **Xiaoyan Zhao**, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua 
-  *ICLR 2026（CCF A）* 
+1. **Reinforced Latent Reasoning for LLM-based Recommendation**  
+  Yang Zhang, Wenxin Xu, **Xiaoyan Zhao**, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua  
+  *ICLR 2026（CCF A）*  
 
 1. **Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation**  
   Chengbing Wang, Yang Zhang, Wenjie Wang, **Xiaoyan Zhao**, Fuli Feng, Xiangnan He, Tat-Seng Chua  

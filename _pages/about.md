@@ -11,11 +11,6 @@ I am a last-year PhD student at the Chinese University of Hong Kong, supervised 
 
 ## Research Interest
 My research interests are centered on: **Personalized LLMs**, **Memory of LLM-based Agents**, **Trustworthy AI** and **AI4Healthcare**.
-<!-- - **Conversational AI**
-  Exploring areas such as **Conversational Recommender Systems**, **Target-Guided Dialogues**, and **Language Model-Powered Agents** to enhance interactive communication technologies.
-
-- **Personalized LLMs**
-  Investigating personalization aspects, including **personality modeling**, **role-playing**, **memory integration**, and ensuring **factual accuracy**, to tailor LLM outputs to individual user preferences. -->
 
 <p style="color: #d9534f;"> 📢 If you are interested in these topics, I would be happy to collaborate and exchange ideas — feel free to get in touch! I also have close connections with CUHK and NUS. If you are interested in visiting opportunities, you are welcome to contact me!</p>
 
