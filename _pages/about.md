@@ -15,7 +15,7 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
 <p style="color: #d9534f;"> 📢 If you are interested in these topics, I would be happy to collaborate and exchange ideas — feel free to get in touch! I also have close connections with CUHK and NUS. If you are interested in visiting opportunities, you are welcome to contact me!</p>
 
 ## News 
-<span class="news-badge">News!</span> 2025.09: 🎉 Three paper was accepted by ICLR 2026! Thanks to all collaborators!
+<span class="news-badge">News!</span> 2026.01: 🎉 Three paper was accepted by ICLR 2026! Thanks to all collaborators!
 <span class="news-badge">News!</span> 2025.09: 🎉 One paper was accepted by NeurIPS 2025! Thanks to all collaborators!
 <span class="news-badge">News!</span> 2025.08: 🎉 One paper was accepted by EMNLP 2025. Thanks to all collaborators!
 <span class="news-badge">News!</span> 2025.05: 🎉 One paper was accepted by ACL 2025! Thanks to all collaborators!
