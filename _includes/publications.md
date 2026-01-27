@@ -21,7 +21,7 @@
   *EMNLP 2025 (Oral 🏆, CCF B)*  
 
 1. **Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models**  
-  **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua
+  **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua  
   *Arxiv*
 
 1. **Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization**  

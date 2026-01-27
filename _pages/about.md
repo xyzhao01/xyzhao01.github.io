@@ -22,7 +22,7 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
 <span class="news-badge">News!</span> 2025.01: 🎉 One paper was accepted by ICLR 2025. See you in Singapore!
 
 ## Academic Services
-- Area Chair of AAAI-2026 Workshop PerFM: Personalization in the Era of Large Foundation Models
+- Area Chair of AAAI-2026 Workshop *PerFM: Personalization in the Era of Large Foundation Models*
 - Program committee of ACL, EMNLP, NeurIPS, COLING, ICASSP, NLPCC, etc.
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), ACM Computing Surveys (CSUR), Knowledge-based Systems (KBS), etc.
 
