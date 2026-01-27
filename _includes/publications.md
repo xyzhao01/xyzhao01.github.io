@@ -2,6 +2,15 @@
 
 1. **NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**  
   **Xiaoyan Zhao\***, Juntao You\*, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua  
+  *ICLR 2026（CCF A）*
+
+1. **Reinforced Latent Reasoning for LLM-based Recommendation**
+  Yang Zhang, Wenxin Xu, **Xiaoyan Zhao**, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua 
+  *ICLR 2026（CCF A）* 
+
+1. **Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation**  
+  Chengbing Wang, Yang Zhang, Wenjie Wang, **Xiaoyan Zhao**, Fuli Feng, Xiangnan He, Tat-Seng Chua  
+  *ICLR 2026（CCF A）*
 
 1. **IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**  
   Zijie Lin, Yang Zhang, **Xiaoyan Zhao**, Fengbin Zhu, Fuli Feng, Tat-Seng Chua  
@@ -12,7 +21,8 @@
   *EMNLP 2025 (Oral 🏆, CCF B)*  
 
 1. **Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models**  
-  **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua  
+  **Xiaoyan Zhao**, Yang Deng, Wenjie Wang, Hong Cheng, Rui Zhang, See-Kiong Ng, Tat-Seng Chua
+  *Arxiv*
 
 1. **Measuring What Makes You Unique: Difference-Aware User Modeling for Enhancing LLM Personalization**  
   Yilun Qiu\*, **Xiaoyan Zhao\***, Yang Zhang, Yimeng Bai, Wenjie Wang, Hong Cheng, Fuli Feng, Tat-Seng Chua  
@@ -20,7 +30,7 @@
 
 1. **PEARL: Towards Permutation-Resilient LLMs**  
   Liang Chen, Li Shen, Yang Deng, **Xiaoyan Zhao**, Bin Liang, Kam-Fai Wong  
-  *ICLR 2025*  
+  *ICLR 2025（CCF A）* 
 
 1. **PACAR: Automated fact-checking with planning and customized action reasoning using large language models**  
   **Xiaoyan Zhao**, Lingzhi Wang, Zhanghao Wang, Hong Cheng, Rui Zhang, Kam-Fai Wong  
