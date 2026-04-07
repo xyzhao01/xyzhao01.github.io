@@ -32,13 +32,13 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
   <div class="news-item">🎉 2025.01: One paper accepted by ICLR 2025!</div>
 </div>
 
-## Tutorials & Workshops (Organization)
+<!-- ## Tutorials & Workshops (Organization)
 1. **PILA’26: Personal Intelligence in Agentic AI Era**  
   Organizer: **Xiaoyan Zhao**, Yang Zhang, Moxin Li, Chongming Gao, Pengyang Shao, Wenjie Wang, Hong Cheng, Fuli Feng, Yongfeng Zhang, Yang Song  
   KDD 2026 Workshop, (<a href="https://pila26-workshop.github.io/#" target="_blank">Web Page</a>)
 1. **LLM Personalization: Foundations, Breakthroughs, and Frontiers**  
   Organizer: **Xiaoyan Zhao**, Xinyu Lin, Chengbing Wang, Zeyu Zhang, Bohao Wang, Yang Zhang, Wenjie Wang, Fuli Feng  
-  SIGIR 2026 Tutorial
+  SIGIR 2026 Tutorial -->
 
 ## Academic Services
 - Area Chair of AAAI-2026 Workshop *PerFM: Personalization in the Era of Large Foundation Models*
