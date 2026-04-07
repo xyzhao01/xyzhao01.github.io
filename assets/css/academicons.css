@@ -576,3 +576,12 @@ border-radius: .1em;
   border-radius: 4px;
   margin-right: 6px;
 }
+
+.news-container {
+  height: 150px;
+  overflow: hidden;
+}
+
+.news-container:hover {
+  overflow-y: auto; /* 鼠标悬停才滚动 */
+}

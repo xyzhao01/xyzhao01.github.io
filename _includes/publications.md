@@ -5,7 +5,7 @@
   *ICLR 2026（CCF A）*  
 
 1. **Reinforced Latent Reasoning for LLM-based Recommendation**  
-  Yang Zhang, Wenxin Xu, **Xiaoyan Zhao**, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua  
+  Yang Zhang, Wenxin Xu, **Xiaoyan Zhao**†, Wenjie Wang, Fuli Feng†, Xiangnan He, Tat-Seng Chua  
   *ICLR 2026（CCF A）*  
 
 1. **Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation**  
@@ -17,7 +17,7 @@
   *NeurIPS 2025 (CCF A)*  
 
 1. **Latent Inter-User Difference Modeling for LLM Personalization**  
-  Yilun Qiu, Tianhao Shi, **Xiaoyan Zhao**, Fengbin Zhu, Yang Zhang, Fuli Feng  
+  Yilun Qiu, Tianhao Shi, **Xiaoyan Zhao**†, Fengbin Zhu, Yang Zhang†, Fuli Feng  
   *EMNLP 2025 (Oral 🏆, CCF B)*  
 
 1. **Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models**  
