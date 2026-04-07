@@ -23,8 +23,8 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
 
 ## News
 <div class="news-container">
-  <div class="news-item"><span class="news-badge">News!</span> 2026.04: Our tutorial has been accepted to SIGIR 2026!</div>
-  <div class="news-item"><span class="news-badge">News!</span> 2026.02: Our workshop has been accepted to KDD 2026!</div>
+  <div class="news-item">🎉 2026.04: Our tutorial has been accepted to SIGIR 2026!</div>
+  <div class="news-item">🎉 2026.02: Our workshop has been accepted to KDD 2026!</div>
   <div class="news-item">🎉 2026.01: Three papers accepted by ICLR 2026!</div>
   <div class="news-item">🎉 2025.09: One paper accepted by NeurIPS 2025!</div>
   <div class="news-item">🎉 2025.08: One paper accepted by EMNLP 2025!</div>
