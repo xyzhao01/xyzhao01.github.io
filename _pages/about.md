@@ -23,6 +23,8 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
 
 ## News
 <div class="news-container">
+  <div class="news-item">🎉 2026.04: Our tutorial has been accepted to SIGIR 2026!</div>
+  <div class="news-item">🎉 2026.02: Our workshop has been accepted to KDD 2026!</div>
   <div class="news-item">🎉 2026.01: Three papers accepted by ICLR 2026!</div>
   <div class="news-item">🎉 2025.09: One paper accepted by NeurIPS 2025!</div>
   <div class="news-item">🎉 2025.08: One paper accepted by EMNLP 2025!</div>
@@ -30,13 +32,13 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
   <div class="news-item">🎉 2025.01: One paper accepted by ICLR 2025!</div>
 </div>
 
-## Tutorials \& Workshop
-1. PILA’26: Personal Intelligence in Agentic AI Era
-  **Xiaoyan Zhao**, Yang Zhang, Moxin Li, Chongming Gao, Pengyang Shao, Wenjie Wang, Hong Cheng, Fuli Feng, Yongfeng Zhang, Yang Song
-  KDD 2026 Workshop, Web Page
-1. LLM Personalization: Foundations, Breakthroughs, and Frontiers
-   **Xiaoyan Zhao**, Xinyu Lin, Chengbing Wang, Zeyu Zhang, Bohao Wang, Yang Zhang, Wenjie Wang, Fuli Feng
-   SIGIR 2026 Tutorial
+## Tutorials & Workshops (Organization)
+1. PILA’26: Personal Intelligence in Agentic AI Era  
+  Organizer: **Xiaoyan Zhao**, Yang Zhang, Moxin Li, Chongming Gao, Pengyang Shao, Wenjie Wang, Hong Cheng, Fuli Feng, Yongfeng Zhang, Yang Song  
+  KDD 2026 Workshop, (<a href="https://pila26-workshop.github.io/#" target="_blank">Web Page</a>)
+1. LLM Personalization: Foundations, Breakthroughs, and Frontiers  
+  Organizer: **Xiaoyan Zhao**, Xinyu Lin, Chengbing Wang, Zeyu Zhang, Bohao Wang, Yang Zhang, Wenjie Wang, Fuli Feng  
+  SIGIR 2026 Tutorial
 
 ## Academic Services
 - Area Chair of AAAI-2026 Workshop *PerFM: Personalization in the Era of Large Foundation Models*
