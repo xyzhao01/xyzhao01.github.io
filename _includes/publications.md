@@ -1,5 +1,13 @@
 ## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ)) (* Equal Contribution, † Mentorship)
 
+1. **Intuition-Guided Latent Reasoning for LLM-Based Recommendation**  
+  Chang Liu, Yimeng Bai, **Xiaoyan Zhao**†, Yang Zhang, Qifan Wang, Fuli Feng, Wenge Rong  
+  *KDD 2026（CCF A）*  
+
+1. **Discovering and Alleviating Data Leakage in Staytime Prediction for Live Streaming Recommendation**  
+  Weihao Liu, Xiaopeng Ye, Chen Zhang, Haiyuan Zhao, **Xiaoyan Zhao**, Xiao Zhang, Jun Xu  
+  *KDD 2026（CCF A）*  
+  
 1. **NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**  
   **Xiaoyan Zhao\***, Juntao You\*, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua  
   *ICLR 2026（CCF A）*  

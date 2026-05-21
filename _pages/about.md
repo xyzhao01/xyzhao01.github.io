@@ -23,6 +23,7 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
 
 ## News
 <div class="news-container">
+  <div class="news-item">🎉 2026.05: Two papers accepted by KDD 2026!</div>
   <div class="news-item">🎉 2026.04: Our tutorial has been accepted to SIGIR 2026!</div>
   <div class="news-item">🎉 2026.02: Our workshop has been accepted to KDD 2026!</div>
   <div class="news-item">🎉 2026.01: Three papers accepted by ICLR 2026!</div>
@@ -41,6 +42,7 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
   SIGIR 2026 Tutorial -->
 
 ## Academic Services
+- Area Chair of ACL Rolling Review (ARR), 2026
 - Area Chair of AAAI-2026 Workshop *PerFM: Personalization in the Era of Large Foundation Models*
 - Program committee of ACL, EMNLP, NeurIPS, COLING, ICASSP, NLPCC, etc.
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), ACM Computing Surveys (CSUR), Knowledge-based Systems (KBS), etc.
