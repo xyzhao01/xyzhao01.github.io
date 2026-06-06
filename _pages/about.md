@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year PhD student at the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Currently, I am a visiting scholar at [NExT++ Research Center](https://www.nextcenter.org/), National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). Prior to this, I received my master's degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
+I recently received my Ph.D. from the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). I will soon join the [NExT++ Research Center](https://www.nextcenter.org/) at the National University of Singapore as a Research Fellow, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). Prior to my Ph.D., I received my master's degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
 
 ## Research Interest
-My research interests are centered on: **Personalized LLMs**, **Memory of LLM-based Agents**, **Trustworthy AI** and **AI4Healthcare**.
+
+My vision is to build AI agents that truly understand individuals, accumulate meaningful memory over time, and behave reliably in the real world. I believe personalized and trustworthy intelligence will be key to unlocking the full potential of LLMs in consequential domains such as healthcare and beyond.
+
+My current work focuses on: **Personalized LLMs**, **Memory of LLM-based Agents**, **Trustworthy AI** and **AI4Healthcare**.
 
 ## Recruitment
 
-<p style="color: #d9534f;">📢 I am actively looking for motivated students and collaborators in the above research areas. Feel free to get in touch!</p>
+<p style="color: #d9534f;">📢 I am actively looking for motivated students and collaborators in the above research areas. Feel free to get in touch!</p>  **Contact**: [xiaoyanzhao.ai@gmail.com](mailto:xiaoyanzhao.ai@gmail.com)
 
 - **Visiting scholars / students**: I have close connections with CUHK and NUS. If you are interested in visiting opportunities, you are welcome to contact me.
 - **Research collaboration**: I would be happy to collaborate and exchange ideas on related topics.
-- **Contact**: [xiaoyanzhao.ai@gmail.com](mailto:xiaoyanzhao.ai@gmail.com)
 
 <!-- ## News 
 <span class="news-badge">News!</span> 2026.01: 🎉 Three paper was accepted by ICLR 2026! Thanks to all collaborators!
