@@ -1,0 +1,2 @@
+- **CSCI2100: Data Structures** (2022/2023/2024 Fall@CUHK), Teaching Assistant
+- **SEEM3550: Database Systems** (2022/2023/2024/2025 Fall@CUHK), Teaching Assistant

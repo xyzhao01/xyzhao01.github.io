@@ -7,12 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year PhD student at the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Currently, I am a visiting scholar at [NExT++ Research Center](https://www.nextcenter.org/), National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). Prior to this, I received my master’s degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
+I am a last-year PhD student at the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Currently, I am a visiting scholar at [NExT++ Research Center](https://www.nextcenter.org/), National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). Prior to this, I received my master's degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
 
 ## Research Interest
 My research interests are centered on: **Personalized LLMs**, **Memory of LLM-based Agents**, **Trustworthy AI** and **AI4Healthcare**.
 
-<p style="color: #d9534f;"> 📢 If you are interested in these topics, I would be happy to collaborate and exchange ideas — feel free to get in touch! I also have close connections with CUHK and NUS. If you are interested in visiting opportunities, you are welcome to contact me!</p>
+## Recruitment
+
+<p style="color: #d9534f;">📢 I am actively looking for motivated students and collaborators in the above research areas. Feel free to get in touch!</p>
+
+- **Visiting scholars / students**: I have close connections with CUHK and NUS. If you are interested in visiting opportunities, you are welcome to contact me.
+- **Research collaboration**: I would be happy to collaborate and exchange ideas on related topics.
+- **Contact**: [xiaoyanzhao.ai@gmail.com](mailto:xiaoyanzhao.ai@gmail.com)
 
 <!-- ## News 
 <span class="news-badge">News!</span> 2026.01: 🎉 Three paper was accepted by ICLR 2026! Thanks to all collaborators!
@@ -32,21 +38,3 @@ My research interests are centered on: **Personalized LLMs**, **Memory of LLM-ba
   <div class="news-item">🎉 2025.05: One paper accepted by ACL 2025!</div>
   <div class="news-item">🎉 2025.01: One paper accepted by ICLR 2025!</div>
 </div>
-
-<!-- ## Tutorials & Workshops (Organization)
-1. **PILA’26: Personal Intelligence in Agentic AI Era**  
-  Organizer: **Xiaoyan Zhao**, Yang Zhang, Moxin Li, Chongming Gao, Pengyang Shao, Wenjie Wang, Hong Cheng, Fuli Feng, Yongfeng Zhang, Yang Song  
-  KDD 2026 Workshop, (<a href="https://pila26-workshop.github.io/#" target="_blank">Web Page</a>)
-1. **LLM Personalization: Foundations, Breakthroughs, and Frontiers**  
-  Organizer: **Xiaoyan Zhao**, Xinyu Lin, Chengbing Wang, Zeyu Zhang, Bohao Wang, Yang Zhang, Wenjie Wang, Fuli Feng  
-  SIGIR 2026 Tutorial -->
-
-## Academic Services
-- Area Chair of ACL Rolling Review (ARR), 2026
-- Area Chair of AAAI-2026 Workshop *PerFM: Personalization in the Era of Large Foundation Models*
-- Program committee of ACL, EMNLP, NeurIPS, COLING, ICASSP, NLPCC, etc.
-- Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), ACM Computing Surveys (CSUR), Knowledge-based Systems (KBS), etc.
-
-## Teaching
-- **CSCI2100: Data Structures** (2022/2023/2024 Fall@CUHK), Teaching Assistant
-- **SEEM3550: Database Systems** (2022/2023/2024 Fall@CUHK), Teaching Assistant

@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Services"
+permalink: /services/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% capture services_content %}{% include services.md %}{% endcapture %}
+{{ services_content | markdownify }}
