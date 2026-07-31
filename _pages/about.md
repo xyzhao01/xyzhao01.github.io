@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my Ph.D. from the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). I will soon join the [NExT++ Research Center](https://www.nextcenter.org/) at the National University of Singapore as a Research Fellow, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). Prior to my Ph.D., I received my master's degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
+I am currently a Research Fellow at the National University of Singapore, working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) at the [NExT++ Research Center](https://www.nextcenter.org/) and [Prof. Chema Valderas](https://discovery.nus.edu.sg/19962-jose-m-valderas) at [CRiHSP](https://medicine.nus.edu.sg/crihsp/), NUS Medicine. I received my Ph.D. from the Chinese University of Hong Kong, supervised by [Prof. Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/). Prior to my Ph.D., I received my master's degree from the University of Chinese Academy of Sciences (UCAS), where I was a member of [SIAT-NLP](https://github.com/siat-nlp) and was supervised by [Prof. Min Yang](https://minyang.me/). 
 
 ## Research Interest
 
