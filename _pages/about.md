@@ -31,6 +31,8 @@ My current work focuses on: **Personalized LLMs**, **Memory of LLM-based Agents*
 
 ## News
 <div class="news-container">
+  <div class="news-item">🎉 2026.08: Two papers accepted by EMNLP 2026!</div>
+  <div class="news-item">🎉 2026.08: One short paper accepted by RecSys 2026!</div>
   <div class="news-item">🎉 2026.05: Two papers accepted by KDD 2026!</div>
   <div class="news-item">🎉 2026.04: Our tutorial has been accepted to SIGIR 2026!</div>
   <div class="news-item">🎉 2026.02: Our workshop has been accepted to KDD 2026!</div>

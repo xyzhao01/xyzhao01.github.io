@@ -1,5 +1,17 @@
 ## Selected Recent Publications ([Full List](https://scholar.google.com/citations?user=rtLHw6QAAAAJ)) (* Equal Contribution, † Mentorship)
 
+1. **Re2A: Situated Conversational Recommendation via Rubric-based Preference Reasoning and Alignment**  
+  Dongding Lin, Jian Wang, **Xiaoyan Zhao**, Wenjie Li  
+  *EMNLP 2026（CCF B）*  
+
+1. **ACE-Align: Attribute Causal Effect Alignment for Cultural Values under Varying Persona Granularities**  
+  JiaTang Luo, Bingbing Xu, Rongxin Chen, **Xiaoyan Zhao**, Yang Zhang, Liang Pang, Zhiyong Huang, Huawei Shen  
+  *EMNLP 2026（CCF B）*  
+
+1. **SODA: Semantic-Oriented Distributional Alignment for Generative Recommendation**  
+  Ziqi Xue, Dingxian Wang, Yimeng Bai, Shuai Zhu, Jialei Li, **Xiaoyan Zhao**†, Frank Yang, Andrew Rabinovich, Yang Zhang, Pablo N. Mendes  
+  *RecSys 2026 (short paper, CCF B)*  
+
 1. **Intuition-Guided Latent Reasoning for LLM-Based Recommendation**  
   Chang Liu, Yimeng Bai, **Xiaoyan Zhao**†, Yang Zhang, Qifan Wang, Fuli Feng, Wenge Rong  
   *KDD 2026（CCF A）*  
